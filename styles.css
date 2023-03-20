@@ -1,48 +1,11 @@
 
 
+
 /* Your CSS Code here. */
-
-.white{
-	border:1px solid black;
-	width:500px;
-	height:300px;
-}
-.white1{
-	margin-top:0px;
-	margin-left:10px;
-}
-.blue{
-	border:1px solid black;
-	width:450px;
-    height: 250px;
-    margin-left: 20px;
-    background-color: blue;
-}
-.green{
-   border: 1px solid black;
-   margin-left: 20px;
-   width: 400px;
-   height: 200px;
-   background-color: aquamarine;
-}
-.green1{
-    margin-left: 20px;
-    width: 350px;
-    height: 150px;
-    background-color: aquamarine;
-    text-align: center;
-    border:1px solid black;
-}
-.green2{
-
-    width: 300px ;
-    margin-bottom: 0px;
-    margin-left: 20px;
-}
-.light{
-    padding-left: 210px;
-}
-.green3{
-    margin-top: 40px;
-    border-style: dashed;
+.box{
+    padding: 50px;
+    border: 15px solid blue;
+    margin: 20px;
+    background-color: lightblue;
+    width: 300px;
 }
